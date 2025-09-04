@@ -32,17 +32,21 @@ SnapCart is a modern e-commerce website frontend built using **React.js**, **Tai
 ![Home Page](screenshots/home.png)
 
 ### Cart Page
-![Cart Page](screenshots/cart.png)
+![Cart Page](screenshots/cart_page.png)
 
 ### Sign-in Page
-![Sign-in Page](screenshots/signin.png)
+![Sign-in Page](screenshots/sign_up.png)
+
+### Products Page
+![Products Page](screenshots/products.png)
 
 
 ## Setup & Installation
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/W-lakhi-W/snapcart-frontend.git
+git clone https://github.com/W-lakhi-W/SnapCart_ecommerce_site.git
+
 cd snapcart
 
 2. Install dependencies
